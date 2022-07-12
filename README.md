@@ -1,2 +1,1 @@
-lua, java, c#, c++, python
-full-stack.
+dont be so mad
